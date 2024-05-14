@@ -9,11 +9,9 @@
   </a>
 </div> 
 
-<br/>
-
 ### 🐣 SeEun Park 🐥
 
-
+<a href="https://github.com/sen2y"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsen2y&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 <hr/>
 🍒sen2y.tistory🍒 <a href="https://sen2y-it.tistory.com/">https://sen2y-it.tistory.com</a>  
 
