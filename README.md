@@ -1,4 +1,5 @@
 [![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=seny's%20github&fontAlign=80&fontAlignY=40&color=gradient)](https://github.com/kyechan99/capsule-render)
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=seny.park&fontAlign=80&fontAlignY=40&color=gradient)](https://github.com/kyechan99/capsule-render)
 
 ## 박세은 / seny.park
 
