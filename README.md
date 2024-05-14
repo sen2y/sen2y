@@ -11,8 +11,7 @@
 
 ### 🐣 SeEun Park 🐥
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsen2y&count_bg=%23FFB601&title_bg=%23FC435A&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=true)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsen2y&count_bg=%23010101&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=false)](https://hits.seeyoufarm.com)
 <hr/>
 
 🍒sen2y.tistory🍒 <a href="https://sen2y-it.tistory.com/">https://sen2y-it.tistory.com</a>  
