@@ -11,7 +11,7 @@
 
 ### 🐣 SeEun Park 🐥
 
- <a href="https://github.com/sen2y"><img alt="solved.ac" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsen2y&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsen2y&count_bg=%23FFB601&title_bg=%23FC435A&icon=github.svg&icon_color=%23FFFFFF&title=github&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <hr/>
 
