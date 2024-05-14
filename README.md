@@ -73,6 +73,6 @@
 <br/>
 <br/>
 
----
+<hr style="height:1px;border:none;color:#cccccc;background-color:#cccccc;" />
 
 Copyright ⓒ seny.park
