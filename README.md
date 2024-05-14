@@ -1,4 +1,8 @@
-[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=seny's%20github&fontAlign=50&fontAlignY=40&color=ffffff)](https://github.com/kyechan99/capsule-render)
+[![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=seny's%20github&fontAlign=70&fontAlignY=30&color=0:f8cdda,100:ddbdfc)](https://github.com/kyechan99/capsule-render)
+
+## 박세은 / seny.park
+
+안녕하세요! 🙋‍♂️ 풀스택 개발자를 준비 중인 박세은입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다. 현재는 카카오 클라우드 스쿨 in JEJU 에 참여해 풀스택 과정을
 
 안녕하세요! 🙋‍♂️ 풀스택 개발자를 준비 중인 박세은입니다. 개발은 Programming이 아닌 Development라는 생각으로, 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다. 현재는 카카오 클라우드 스쿨 in JEJU 에 참여해 풀스택 과정을 학습하고 있습니다.
 항상 이야기하는것을 좋아하고 비난이 아닌 비판은 언제든지 환영합니다. 🥰 모두 행복했으면 좋겠어요!
