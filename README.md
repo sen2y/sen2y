@@ -33,7 +33,7 @@
   
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
   
----
+
 
 ### 💬 My Values
 
@@ -41,14 +41,14 @@
 - 👌 프로젝트의 시간 관리를 철저히 하면서, 높은 완성도를 유지합니다.
 - 🦻 팀원들과의 활발한 의사소통으로 문제를 해결합니다.
 
----
+
 
 ### 🚀 How I Work
 
 저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다.
 새로운 도전을 두려워 하지 않으며 정리하고 기록하는 것을 좋아합니다. 열심히 블로그를 작성하고 있어요!
 
----
+
 
 ### 🔧 Skills
 
@@ -71,7 +71,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </div>
 
----
+
 
 
 
