@@ -1,4 +1,3 @@
-//////
 [![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=seny's%20github%20🙌&fontAlign=50&fontAlignY=35&color=0:ddbdfc,100:f8cdda&fontColor=ffffff)](https://github.com/kyechan99/capsule-render)
 <div align="center">
   
