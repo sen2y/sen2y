@@ -7,8 +7,7 @@
   <a href="https://github.com/sen2y/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sen2y" align="right" />
   </a>
-</div>
-  <br>
+</div> 
 
 ### 🐣 SeEun Park 🐥
 
