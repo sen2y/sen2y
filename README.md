@@ -11,8 +11,8 @@
 
 ### 🐣 SeEun Park 🐥
 
-
-🍒sen2y.tistory🍒 <a href="https://sen2y-it.tistory.com/">https://sen2y-it.tistory.com</a>  
+<a href="https://github.com/sen2y"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsen2y&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+ 🍒sen2y.tistory🍒 <a href="https://sen2y-it.tistory.com/">https://sen2y-it.tistory.com</a>  
  🍏sen2y.portfolio🍏 <a href="https://fish-reason-9e3.notion.site/24-05-14-ver-a39ce70afba94befa64da22fef6d3379?pvs=4">https://fish-reason-9e3.notion.site</a>
 
   <br>
