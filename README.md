@@ -16,9 +16,6 @@
 <hr/>
 🍒sen2y.tistory🍒 <a href="https://sen2y-it.tistory.com/">https://sen2y-it.tistory.com</a>  
 
-
-🍏sen2y.portfolio🍏 [https://sen2y-portfolio.notion.site](https://sen2y-portfolio.notion.site/24-05-14-ver-a39ce70afba94befa64da22fef6d3379)
-
   <br>
  
 </div>
