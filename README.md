@@ -3,6 +3,16 @@
 
 <div align="center">
 
+### 🐰 박세은 / seny.park 🐰
+Frontend Developer
+ 
+  <br>
+ 
+</div>
+<div align="center">
+
+<hr/>
+ 
 
 <div align="right">
   <a href="https://github.com/sen2y/github-readme-stats">
@@ -10,57 +20,48 @@
   </a>
 </div> 
 
-### 🐰 박세은 / seny.park 🐰
- 
-<hr/> 
-
-  <br>
- 
 </div>
-
   
+  <br/>
   
-<!-- ## 🐰 박세은 / seny.park
-
-안녕하세요! 🙋‍♂️ 프론트엔드 개발자 박세은입니다.  
-개발에 있어 가장 중요한 것은 협력으로, 개발은 개발자 뿐 아니라 모든 직군이 함께 해야하는 것 이라고 생각합니다.  
-현재는 카카오 클라우드 스쿨 in JEJU에 참여해 풀스택 과정을 학습하고 있습니다.  
-항상 이야기하는 것을 좋아하고 건설적인 비판을 환영합니다. 🥰 모두 행복했으면 좋겠어요!
-
-  <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
-  
-  <br> -->
-
 ## 💬 My Values
 
-😎 모든 작업은 즐거움과 열정을 기반으로 합니다.   
-👩‍💻 새로운 기술을 배우고 정리하는 것을 즐깁니다.   
+😎 사용자의 불편을 개선하고 경험을 높이는 데 집중합니다.  
+👩‍💻 단순 해결이 아닌 근본 원인을 분석하고 구조적인 대안을 찾습니다.  
 👌 프로젝트의 기한을 철저히 지키며, 높은 완성도를 유지하는 것을 추구합니다.   
 🦻 팀원들과의 활발한 의사소통으로 문제를 해결합니다.
 
   <img align="right" width="23" src="https://github.com/seondal/seondal/assets/75469131/f3735e2a-2fb1-4e7f-bbea-81f5698213b0" />
-
-## 🚀 How I Work
-
-저는 항상 재미있게 살고 싶습니다. 사용자와 클라이언트를 동시에 만족 시키는 것 또한 재미있고, 새로운 기술을 배우는 것 또한 재미 있습니다.
-새로운 도전을 두려워 하지 않으며 정리하고 기록하는 것을 좋아합니다. 열심히 블로그를 작성하고 있어요!
-
+   <br/>
 
 ## 💻 Skills
 
 
+
 #### 📗 I use it often
-
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/ts-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</div>
 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br/>
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/zustand-443D33?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/tanstack%20query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</div>
 <br/>
+
+   <br/>
+
+## 💼 Work Experiences
+
+- **Frontend Intern – Naver Cloud**  
+  *2024.10 ~ 2025.04*   
+
+- **Frontend Intern – 플필 (PLFIL)**  
+  *2022.12 ~ 2023.02 / 2023.07 ~ 2023.11*   
+
 
 <hr/>
 
