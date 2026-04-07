@@ -4,21 +4,15 @@
 <div align="center">
 
 ### 🐰 박세은 / seny.park 🐰
-Frontend Developer
+Frontend Engineer
  
   <br>
  
 </div>
-<div align="center">
-
-<hr/>
+<div align="center"> 
  
-
-<div align="right">
-  <a href="https://github.com/sen2y/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sen2y" align="right" />
-  </a>
-</div> 
+ 
+ 
 
 </div>
   
@@ -40,9 +34,9 @@ Frontend Developer
 
 #### 📗 I use it often
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <br/>
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -55,9 +49,11 @@ Frontend Developer
    <br/>
 
 ## 💼 Work Experiences
-
+- **Frontend Engineer – KZONE**  
+  *2026.02 ~ ing*
+  
 - **Frontend Intern – Naver Cloud**  
-  *2024.10 ~ 2025.04*   
+  *2024.10 ~ 2025.04*    
 
 - **Frontend Intern – 플필 (PLFIL)**  
   *2022.12 ~ 2023.02 / 2023.07 ~ 2023.11*   
